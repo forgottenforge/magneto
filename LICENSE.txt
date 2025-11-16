@@ -1,0 +1,29 @@
+# License Notice
+
+This software is licensed under a **dual-license model**:
+
+1. **For Open Source and Non-Commercial Use**  
+   - Licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.  
+   - You may use, modify, and distribute this software **provided that any derivative works are also licensed under the AGPL-3.0**.  
+   - See `LICENSE-AGPL.txt` for full license terms.
+
+2. **For Commercial Use**  
+   - Companies, organizations, and other commercial entities **must obtain a commercial license**.  
+   - The commercial license allows proprietary use without the copyleft requirements of the AGPL.  
+   - See `LICENSE-COMMERCIAL.txt` for details and contact information.
+
+By using this software, you agree to these terms.  
+For commercial licensing inquiries, please visit: **[www.theqa.space]**
+
+---
+
+## Summary of Key Terms
+
+| License Type | Permitted Uses | Restrictions |
+|---------------|----------------|---------------|
+| **AGPL-3.0** (for open-source / non-commercial use) | Free use, modification, redistribution under AGPL | Must disclose source code of modified versions and networked services |
+| **Commercial License** (for companies) | Proprietary use, closed-source integration, internal business use | Requires commercial agreement, no resale without consent |
+
+For full details, see:
+- `LICENSE-AGPL.txt`
+- `LICENSE-COMMERCIAL.txt`

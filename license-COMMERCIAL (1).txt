@@ -1,0 +1,21 @@
+# Commercial License Agreement
+
+This software is available under a commercial license for organizations that wish to use it **without the copyleft requirements** of the AGPL-3.0.
+
+Under this commercial license, you are permitted to:
+- Use the software internally within your organization.
+- Modify and integrate it into proprietary systems.
+- Distribute derivative works under your own terms.
+
+Restrictions:
+- You **may not** resell or sublicense the software to third parties unless explicitly authorized.
+- You **may not** publicly distribute the software under a non-open-source license without a valid commercial agreement.
+- You **may not** offer the software as a managed service (SaaS) without permission.
+
+To obtain a commercial license or quote, please contact:  
+🌐 **[nfo@forgottenforge.xyz]**
+
+---
+
+© [Year] [Your Company or Project Name].  
+All rights reserved.
