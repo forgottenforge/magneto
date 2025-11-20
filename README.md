@@ -5,6 +5,10 @@
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-orange)](LICENSE-COMMERCIAL.txt)
 ![Status: Early Alpha](https://img.shields.io/badge/status-early--alpha-red)
 
+
+https://github.com/user-attachments/assets/d0df038a-63bf-48ce-b90b-a655b4189de2
+
+
 This repository contains all code, data, documentation, and resources associated with the paper "Operational Scale Detection in Quantum Magnetism via Susceptibility Analysis: Critical-like Behavior at the Quantum-Classical Crossover on NISQ Hardware" by ForgottenForge.
 
 
